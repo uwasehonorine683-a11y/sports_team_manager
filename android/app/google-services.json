@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10571436016",
+    "project_id": "sport-team-auth",
+    "storage_bucket": "sport-team-auth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10571436016:android:7dfbcac2e43cf94aea5735",
+        "android_client_info": {
+          "package_name": "com.example.sports_team_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRB8nHGSr-x7QCoBUi1BRu-Zl56elSpZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
